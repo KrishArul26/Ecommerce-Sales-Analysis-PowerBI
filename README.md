@@ -13,8 +13,12 @@
 <h2 align="center"> Process Flow</h2>
 
 <p style= 'text-align: justify;'> 
- 1. Cleaned and transformed data using Power Query. 
- 2. Added various synchronised slicers and advanced filters.
- 3. Created interactive visualizations like “Q&A”, Charts, and Gauges with conditional formatting and page-level Tooltips.
- 4. Created drill-through option between pages that are navigated by buttons. Also, created calculated measures using DAX.
+ 1. Cleaned and transformed data using Power Query
+ 
+ 2. Added various synchronised slicers and advanced filters
+ 
+ 3. Created interactive visualizations like “Q&A”, Charts, and Gauges with conditional formatting and page-level Tooltips
+ 
+ 4. Created drill-through option between pages that are navigated by buttons. Also, created calculated measures using DAX
+ 
  5. Implemented row-level security based on region and finally, published the visualizations on Power BI Service..</p> 
