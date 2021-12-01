@@ -1,0 +1,2 @@
+# Ecommerce---Sales_Analysis_PowerBI
+As an internet revolution now people use online purchasing rather than directly go shopping. So, E-commerce data have to analysis and find the use full information about the business and make decisions accordingly. So, Here I used, Ecommerce data it contains various features like region, product type, sales and price etc. So, This data was queried by Power-Bi and Finally, Dashboard was created. 
