@@ -24,12 +24,20 @@
  
  5. Implemented row-level security based on region and finally, published the visualizations on Power BI Service..</p> 
  
- <h2 align="left">Results</h2>
+ <h2 align="left">Results-1</h2>
  
  <p align="center">
-  <img width="1000" src="https://user-images.githubusercontent.com/74568334/144203085-b8113ae6-6a41-488a-b476-4c237268f322.png">
+  <img width="1000" src="https://user-images.githubusercontent.com/74568334/144203085-b8113ae6-6a41-488a-b476-4c237268f322.png">  
+</p> 
+
+<h2 align="left">Results-2</h2>
+ <p align="center">
   <img width="1000" src="https://user-images.githubusercontent.com/74568334/144203087-b151b816-2bd7-4332-987d-b975f96ec99a.png">
+ 
+</p> 
+
+<h2 align="left">Results-3</h2>
+ <p align="center">
   <img width="1000" src="https://user-images.githubusercontent.com/74568334/144203088-58d751db-6dd1-41e2-9bc3-ddd36a8afd6c.png">
   
 </p> 
-
